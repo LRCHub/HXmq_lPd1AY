@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Ready To Fight",
+  "base_artist": "DJ RYOW",
+  "createdAt": "2026-02-11T12:41:58.127784Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ready To Fight",
+      "artist": "Anvil",
+      "has_synced": false,
+      "path": "select/01_Ready_To_Fight_Anvil.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ready to Fight",
+      "artist": "Roby Fayer feat. Tom Gefen",
+      "has_synced": true,
+      "path": "select/02_Ready_to_Fight_Roby_Fayer_feat._Tom_Gefen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ready to Fight",
+      "artist": "Roby Fayer/Tom Gefen",
+      "has_synced": true,
+      "path": "select/03_Ready_to_Fight_Roby_Fayer_Tom_Gefen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ready to Fight",
+      "artist": "WOODZ",
+      "has_synced": true,
+      "path": "select/04_Ready_to_Fight_WOODZ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ready To Fight",
+      "artist": "Roby Fayer ft.Tom Gefen",
+      "has_synced": true,
+      "path": "select/05_Ready_To_Fight_Roby_Fayer_ft.Tom_Gefen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ready to Fight",
+      "artist": "Toxic Holocaust",
+      "has_synced": true,
+      "path": "select/06_Ready_to_Fight_Toxic_Holocaust.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ready to Fight",
+      "artist": "Cloud Cult",
+      "has_synced": false,
+      "path": "select/07_Ready_to_Fight_Cloud_Cult.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tonight I'm Ready to Fight",
+      "artist": "Serious Black",
+      "has_synced": false,
+      "path": "select/08_Tonight_I'm_Ready_to_Fight_Serious_Black.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ready to Fight",
+      "artist": "Roby Fayer",
+      "has_synced": false,
+      "path": "select/09_Ready_to_Fight_Roby_Fayer.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ready To Fight",
+      "artist": "Girl On Fire",
+      "has_synced": true,
+      "path": "select/10_Ready_To_Fight_Girl_On_Fire.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ready to Fight",
+      "artist": "FERNANDOCOSTA",
+      "has_synced": true,
+      "path": "select/11_Ready_to_Fight_FERNANDOCOSTA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ready to Fight",
+      "artist": "Negative Approach",
+      "has_synced": true,
+      "path": "select/12_Ready_to_Fight_Negative_Approach.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ready to fight [live at freezer theater, detroit, mi, 6/18/1982]",
+      "artist": "Negative Approach",
+      "has_synced": true,
+      "path": "select/13_ready_to_fight_[live_at_freezer_theater,_detroit,_mi,_6_18_1982]_Negative_Approach.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ready To Fight (feat. AndrePlusPlus & Vincent Lee)",
+      "artist": "Julien Bam",
+      "has_synced": true,
+      "path": "select/14_Ready_To_Fight_(feat._AndrePlusPlus_&_Vincent_Lee)_Julien_Bam.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ready To Fight",
+      "artist": "Negative Approach",
+      "has_synced": true,
+      "path": "select/15_Ready_To_Fight_Negative_Approach.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ready To Fight",
+      "artist": "J13",
+      "has_synced": true,
+      "path": "select/16_Ready_To_Fight_J13.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ready To Fight",
+      "artist": "Julien Bam",
+      "has_synced": true,
+      "path": "select/17_Ready_To_Fight_Julien_Bam.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ready To Fight (feat. guca owl, LANA & ¥ellow Bucks)",
+      "artist": "DJ RYOW",
+      "has_synced": false,
+      "path": "select/pl_01_Ready_To_Fight_(feat._guca_owl,_LANA_&_¥ellow_Bucks)_DJ_RYOW.txt"
+    }
+  ]
+}
